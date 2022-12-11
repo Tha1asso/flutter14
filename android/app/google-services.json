@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798066771969",
+    "project_id": "mobile5-notifications",
+    "storage_bucket": "mobile5-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798066771969:android:2089743046d8c68ada5800",
+        "android_client_info": {
+          "package_name": "com.example.flutter14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798066771969-35b977jtc2o5qfnaebp4co9umh2tmb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLECIsq0eGwj2eL9_f_0eMY5m35sUO4dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798066771969-35b977jtc2o5qfnaebp4co9umh2tmb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
